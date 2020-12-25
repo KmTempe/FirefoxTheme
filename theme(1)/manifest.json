@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "version": "3.32",
-  "name": "Riot",
+  "version": "3.33",
+  "name": "rito",
   "theme": {
     "images": {
       "additional_backgrounds": [
@@ -18,14 +18,17 @@
     },
     "colors": {
       "toolbar": "rgba(255, 0, 4, 0)",
-      "toolbar_text": "rgb(0, 221, 255)",
+      "toolbar_text": "rgb(0, 214, 255)",
       "frame": "rgb(0, 0, 0)",
-      "tab_background_text": "rgb(0, 207, 255)",
+      "tab_background_text": "rgb(255, 255, 255)",
       "toolbar_field": "rgba(255, 255, 255, 0.26)",
       "toolbar_field_text": "rgb(255, 255, 255)",
       "tab_line": "rgb(255, 0, 53)",
       "popup": "rgb(0, 0, 0)",
       "popup_text": "rgb(255, 255, 255)",
+      "button_background_hover": "rgba(255, 255, 255, 0.58)",
+      "icons": "rgb(255, 0, 0)",
+      "popup_border": "rgb(255, 54, 0)",
       "tab_loading": "rgb(255, 0, 53)"
     }
   }
