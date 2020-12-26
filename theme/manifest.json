@@ -1,0 +1,39 @@
+{
+  "manifest_version": 2,
+  "version": "3.4",
+  "name": "Rito",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "center center"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(255, 0, 4, 0)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(0, 255, 248)",
+      "toolbar_field": "rgba(0, 0, 0, 0)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(255, 0, 53)",
+      "popup": "rgb(0, 0, 0)",
+      "popup_text": "rgb(0, 234, 255)",
+      "button_background_hover": "rgba(255, 255, 255, 0.58)",
+      "icons": "rgb(255, 0, 0)",
+      "popup_border": "rgb(255, 54, 0)",
+      "tab_selected": "rgba(255, 255, 255, 0.33)",
+      "toolbar_bottom_separator": "rgba(255, 0, 0, 0.83)",
+      "toolbar_field_border": "rgb(0, 255, 248)",
+      "toolbar_top_separator": "rgb(255, 0, 4)",
+      "tab_loading": "rgb(255, 0, 53)"
+    }
+  }
+}
