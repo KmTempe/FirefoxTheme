@@ -13,7 +13,7 @@
         "center center"
       ],
       "additional_backgrounds_tiling": [
-        "repeat"
+        "norepeat"
       ]
     },
     "colors": {
